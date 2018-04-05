@@ -1,5 +1,5 @@
 {
-  "name": "ogheo/yii2-comments",
+  "name": "khikmatullaev/yii2-review",
   "description": "Comments module for Yii2",
   "keywords": [
     "yii2",
@@ -9,7 +9,6 @@
   ],
   "type": "yii2-extension",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/ogheo/yii2-comments",
   "authors": [
     {
       "name": "Oleg Gheorghita",
@@ -22,10 +21,10 @@
   },
   "autoload": {
     "psr-4": {
-      "ogheo\\comments\\": "src"
+      "khikmatullaev\\review\\": "src"
     }
   },
   "extra": {
-    "bootstrap": "ogheo\\comments\\Bootstrap"
+    "bootstrap": "khikmatullaev\\review\\Bootstrap"
   }
 }
